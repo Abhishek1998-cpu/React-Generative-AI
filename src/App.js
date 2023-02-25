@@ -60,7 +60,7 @@ function App() {
 }
 
 function generateTests(input) {
-  const API_KEY = "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";
+  const API_KEY = "";
   const REQUEST_URL = "https://api.openai.com/v1/completions";
 
   const requestData = {
